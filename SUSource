@@ -1,0 +1,42 @@
+{
+  "name": "UnknownSource",
+  "identifier": "com.apps.UnknownSource",
+  "apps": [
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "App.rileytestut.AltStore",
+      "developerName": "Riley Testut",
+      "subtitle": "An alternative App Store for iOS.",
+      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices.\n\nThis release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+      "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+      "tintColor": "018084",
+      "screenshotURLs": [
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-11-25T16:00:00.000Z",
+          "localizedDescription": "Initial support for 3rd party sources and bug fixes.",
+          "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
+          "size": 5465933
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "Create",
+      "identifier": "UnknownSource-now-available",
+      "caption": "This Source is Test",
+      "date": "2026-11-25",
+      "tintColor": "CFCFCF",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
+      "notify": false,
+      "appID": "com.rileytestut.Delta"
+    }
+  ]
+}
